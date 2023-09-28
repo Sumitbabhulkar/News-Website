@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sumitbabhulkar/News-Website.git/static/css/main.abd64e84.css",
+    "main.js": "/Sumitbabhulkar/News-Website.git/static/js/main.873fd667.js",
+    "static/js/787.4c026eef.chunk.js": "/Sumitbabhulkar/News-Website.git/static/js/787.4c026eef.chunk.js",
+    "static/media/spinner.gif": "/Sumitbabhulkar/News-Website.git/static/media/spinner.0d5d4c21f634721eb4a4.gif",
+    "index.html": "/Sumitbabhulkar/News-Website.git/index.html",
+    "main.abd64e84.css.map": "/Sumitbabhulkar/News-Website.git/static/css/main.abd64e84.css.map",
+    "main.873fd667.js.map": "/Sumitbabhulkar/News-Website.git/static/js/main.873fd667.js.map",
+    "787.4c026eef.chunk.js.map": "/Sumitbabhulkar/News-Website.git/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.873fd667.js"
+  ]
+}
